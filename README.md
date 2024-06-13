@@ -1,2 +1,2 @@
 # MyFirstSite
-My first site
+This is my first attempt at a working website. I started this site on June 12th. I'm probably going to add some information and articles about things I'm interested in, such as fashion, music, cooking, and fitness.
